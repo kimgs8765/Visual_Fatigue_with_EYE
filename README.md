@@ -11,7 +11,6 @@
 
 # Main Ideas
 
----
 
 ![DL.png](Prediction%20of%20Visual%20fatigue%20in%20Virtual%20Reality,%20B%20ce6b06c53eb44691ae6e1fc32b836a51/DL.png)
 
@@ -22,8 +21,6 @@
 5. **Deep Learning Architecture 활용한 시각 피로 예측 모델 개발** 
 
 # Data Processing
-
----
 
 1. **Motion Information** 
     
@@ -41,7 +38,6 @@
 
 # Prediction Model Architecture
 
----
 
 ![Model.png](Prediction%20of%20Visual%20fatigue%20in%20Virtual%20Reality,%20B%20ce6b06c53eb44691ae6e1fc32b836a51/Model.png)
 
@@ -51,9 +47,9 @@
 
 # Results
 
----
-
 1. **안구 운동 중 시각 피로와 가장 관계가 깊은 특성이 Blinking number 임을 증명** 
 2. **Regression 분석을 통해 Eye-tracking 데이터 기반의 시각 피로 예측의 타당성 증명 (R-squared value : 0.23)**
 3. **CNN-LSTM 구조의 시각 피로도 예측 모델 개발 ( In progress )**
 4. **Attention Mechanism을 활용한 시각피로 예측 모델 개발 ( In progress )**
+
+Image Reference : https://opencv.org
